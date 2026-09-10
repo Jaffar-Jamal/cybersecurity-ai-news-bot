@@ -79,6 +79,18 @@ Gemini is instructed to return:
 ### 5. WhatsApp Delivery
 ![WhatsApp Delivery](screenshots/05-whatsapp-delivery.png)
 
+### 6. Source Article
+
+Original cybersecurity article ingested from BleepingComputer via RSS.
+
+![Source Article](screenshots/06-source-article.png)
+
+### 7. Final WhatsApp Delivery
+
+Final AI-generated cybersecurity briefing successfully delivered through the WhatsApp Cloud API.
+
+![Final WhatsApp Delivery](screenshots/07-whatsapp-final-delivery.png)
+
 ## Troubleshooting Highlights
 
 During implementation, I worked through several real integration issues, including:
